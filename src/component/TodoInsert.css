@@ -1,0 +1,61 @@
+.bg {
+  position: fixed;
+  z-index: 980;
+  top: 0;
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #6c567b;
+  opacity: 0.8;
+}
+
+form {
+  margin-left: 10%;
+  position: fixed;
+  top: 40%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  z-index: 990;
+  width: 300px;
+  height: 150px;
+  border-radius: 5px;
+  box-shadow: 1px 2px 5px 1px #f67280;
+  background: white;
+}
+
+form > input {
+  border: none;
+  background: lightgray;
+  margin-bottom: 10px;
+  width: 60%;
+  height: 2rem;
+  text-align: center;
+  color: #f67280;
+  background: white;
+  box-shadow: 1px 2px 3px 1px rgb(212, 212, 212);
+}
+
+form > input::placeholder {
+  text-align: center;
+  color: #ffd9dd;
+}
+
+form > button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  display: flex;
+}
+
+.rewrite > svg {
+  padding-top: 20px;
+  color: #f67280;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  font-size: 1rem;
+}
