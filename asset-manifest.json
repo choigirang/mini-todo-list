@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/choigirang/mini-todo-list.git/static/css/main.6640ae4d.css",
-    "main.js": "/choigirang/mini-todo-list.git/static/js/main.d86fc5a3.js",
-    "static/js/787.2803bb05.chunk.js": "/choigirang/mini-todo-list.git/static/js/787.2803bb05.chunk.js",
-    "index.html": "/choigirang/mini-todo-list.git/index.html",
-    "main.6640ae4d.css.map": "/choigirang/mini-todo-list.git/static/css/main.6640ae4d.css.map",
-    "main.d86fc5a3.js.map": "/choigirang/mini-todo-list.git/static/js/main.d86fc5a3.js.map",
-    "787.2803bb05.chunk.js.map": "/choigirang/mini-todo-list.git/static/js/787.2803bb05.chunk.js.map"
+    "main.css": "/mini-todo-list/static/css/main.6640ae4d.css",
+    "main.js": "/mini-todo-list/static/js/main.842250a8.js",
+    "static/js/787.2803bb05.chunk.js": "/mini-todo-list/static/js/787.2803bb05.chunk.js",
+    "index.html": "/mini-todo-list/index.html",
+    "main.6640ae4d.css.map": "/mini-todo-list/static/css/main.6640ae4d.css.map",
+    "main.842250a8.js.map": "/mini-todo-list/static/js/main.842250a8.js.map",
+    "787.2803bb05.chunk.js.map": "/mini-todo-list/static/js/787.2803bb05.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6640ae4d.css",
-    "static/js/main.d86fc5a3.js"
+    "static/js/main.842250a8.js"
   ]
 }
